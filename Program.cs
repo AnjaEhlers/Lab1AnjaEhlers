@@ -1,4 +1,5 @@
 ﻿// WorkWithIntegers();
+WorkWithIntegers();
 OrderPrecedence();
 
 void WorkWithIntegers()
